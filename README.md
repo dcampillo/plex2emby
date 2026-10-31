@@ -7,7 +7,7 @@ Copies your viewing history from Plex to Emby: played status, last-played date, 
 Requires [uv](https://docs.astral.sh/uv/).
 
 ```sh
-cp .env.example .env   # then fill in your servers and keys
+cp .env.sample .env   # then fill in your servers and keys
 uv sync
 ```
 
