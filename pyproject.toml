@@ -1,6 +1,6 @@
 [project]
 name = "plex2emby"
-version = "0.1.0"
+version = "0.0.1"
 description = "Migrate viewing history from a Plex server to an Emby server"
 readme = "README.md"
 requires-python = ">=3.13"
